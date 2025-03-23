@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-core 
+langchain-community
+langchain-groq
+chainlit
+langchain-tavily
